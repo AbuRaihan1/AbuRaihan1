@@ -1,5 +1,14 @@
 # Hi, I'm Abu Raihan!
 ### I'm not a !professional MERN stack web developer. i'm learning web development since 2021. 
+![Profile views](https://gpvc.arturio.dev/AbuRaihan1) 
+<div style="display:flex; align-items:center; justify-content:space-around;">
+  
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbuRaihan1&theme=transparent&show_icons=true&count_private=true)
+  <span style="margin-right:50px;"></span>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbuRaihan1&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 <div style="display: inline_block"> 
 <h3 align="left">Languages and Tools:</h3>
 
