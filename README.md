@@ -48,5 +48,5 @@
   <a href="https://www.linkedin.com/in/aburaihan019" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<a href='https://svgshare.com/s/tFo' ><img src='https://svgshare.com/i/tFo.svg' title='' /></a>
+<img src='https://svgshare.com/i/tFo.svg' title='' />
 
