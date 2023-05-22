@@ -1,5 +1,5 @@
 # Hi, I'm Abu Raihan!
-### I'm not a !professional MERN stack web developer. i'm learning web development since 2021. 
+### I'm !not a professional MERN stack web developer.
 ![Profile views](https://gpvc.arturio.dev/AbuRaihan1) 
 
 <div style="display:flex; align-items:center; justify-content:space-around;">
